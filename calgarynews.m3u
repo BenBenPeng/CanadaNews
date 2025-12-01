@@ -17,7 +17,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
 # 美国新闻
-#EXTINF:-1 group-title="美国新闻",ABC News Live
+#EXTINF:-1 group-title="美国新闻",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="美国新闻",CBS News
