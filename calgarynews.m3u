@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ca.epg.xml"
 
+#EXTINF:-1 group-title="本地新闻",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
 #EXTINF:-1 group-title="本地新闻",CBC News Explore
 https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 
