@@ -1,17 +1,29 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ca.epg.xml"
 
 # 加拿大新闻
-#EXTINF:-1 group-title="本地新闻",Global News
+#EXTINF:-1 group-title="新闻",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 group-title="新闻",CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="新闻",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="新闻",FOX News Channel
+http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="新闻",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
-#EXTINF:-1 group-title="本地新闻",CBC News Explore
+#EXTINF:-1 group-title="新闻",CBC News Explore
 https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 
-#EXTINF:-1 group-title="本地新闻",CBC News Network
+#EXTINF:-1 group-title="新闻",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 
-#EXTINF:-1 group-title="本地新闻",CBC Calgary
+#EXTINF:-1 group-title="新闻",CBC Calgary
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 
-#EXTINF:-1 group-title="本地新闻",CityNews Calgary
+#EXTINF:-1 group-title="新闻",CityNews Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
