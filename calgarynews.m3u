@@ -16,14 +16,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 group-title="新闻",CBC News Explore
 https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 
-#EXTINF:-1 group-title="新闻",CBC News Network
-https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
-
 #EXTINF:-1 group-title="新闻",CBC Calgary
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-
-#EXTINF:-1 group-title="新闻",CityNews
-http://cord-cutter.net:8080/81945791/05013455/216100
 
 #EXTINF:-1 group-title="新闻",CityNews Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
