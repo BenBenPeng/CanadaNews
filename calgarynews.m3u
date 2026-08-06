@@ -57,6 +57,11 @@ CCTV17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
 凤凰卫视资讯台,https://cdn6.cc.cd/163189/fhzx
 凤凰卫视香港台,https://cdn6.cc.cd/163189/fhhk
 
+翡翠台4k,https://cdn3.indevs.in/stream/tvb/fct4k/
+翡翠台,https://cdn6.cc.cd/163189/fct
+翡翠台字幕,https://cdn3.indevs.in/stream/tvb/fct/
+明珠台字幕,https://cdn3.indevs.in/stream/tvb/mzt/
+
 中天新聞,http://111.0.115.129:8081/live/222ztxw.m3u8
 中天新聞,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
 中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
@@ -64,6 +69,9 @@ CCTV17,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
 東森新聞,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 東森財經新聞台,http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
 東森超视,rtmp://f13h.mine.nu/sat/tv331
+东森电影,https://smt.1678520.xyz/163189/dsdy
+东森戏剧,https://smt.1678520.xyz/163189/dsxj
+东森洋片,https://smt.1678520.xyz/163189/dsyp
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS LIVE,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 TVBS新聞,http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
@@ -136,6 +144,33 @@ CinemaWorld,http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1782639885837
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 華视,rtmp://f13h.mine.nu/sat/tv111
+
+龙华电影,https://8.fast.hidns.vip/163189/lhdy
+龙华经典,https://8.fast.hidns.vip/163189/lhjd
+龙华偶像,https://8.fast.hidns.vip/163189/lhox
+龙华日韩,https://8.fast.hidns.vip/163189/lhrh
+龙华戏剧,https://8.fast.hidns.vip/163189/lhxj
+龙华洋片,https://8.fast.hidns.vip/163189/lhyp
+TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
+TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
+TVB星河,https://cdn6.cc.cd/163189/tvbxh
+海峡卫视,https://10.fast.hidns.vip/163189/hxws/
+海峡卫视,https://168.sryze.cc/163189/hxws
+天映经典,https://10.fast.hidns.vip/163189/ccm/
+天映频道,https://cdn3.indevs.in/stream/live/typd/
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+千禧经典台,https://cdn3.indevs.in/stream/live/tvbc/
+重温经典,https://168.sryze.cc/163189/cwjd
+靖天映画,https://cdn12.178.indevs.in/163189/jtyh
+靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
+靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
+靖洋戏剧台,https://cdn12.178.indevs.in/163189/jyxj
+纬来电影台,https://smt.1678520.xyz/163189/wldy
+纬来戏剧台,https://smt.1678520.xyz/163189/wlxj
+美亚电影,http://173.208.234.146/live/mymovie.m3u8
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 CNN International,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
